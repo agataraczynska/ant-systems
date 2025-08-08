@@ -68,8 +68,7 @@ git clone https://github.com/agataraczynska/ant-systems.git
 cd ant-systems
 
 Run the simulation scripts:
-python task1.py
-python task2.py
+python ant_systems.py
 
 Plots and outputs will be generated showing the paths chosen by ants and TSP solutions.
 
